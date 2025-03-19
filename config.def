@@ -1,0 +1,5 @@
+# Sample config.def file
+name = "MyProgram"
+version = 1.2
+enable_logging = true
+max_users = 100
